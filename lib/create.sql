@@ -1,1 +1,3 @@
-splite3 project
+CREATE TABLE records(
+  id INTEGER PRIMARY KEY
+);
