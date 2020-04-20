@@ -1,0 +1,1 @@
+INSERT INTO PROJECTS VALUES (1,"Moon", "landing", "500", "12/21/1999", "1/15/1920");
