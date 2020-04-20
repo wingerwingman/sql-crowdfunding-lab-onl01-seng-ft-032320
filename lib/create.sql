@@ -1,3 +1,3 @@
-CREATE TABLE records(
+CREATE TABLE projects (
   id INTEGER PRIMARY KEY
 );
