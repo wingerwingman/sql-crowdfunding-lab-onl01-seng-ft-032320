@@ -1,4 +1,4 @@
-# users
+
 INSERT INTO users VALUES (1,"Doug", 40);
 INSERT INTO users VALUES (2, "Adam", "34");
 INSERT INTO users VALUES (3, "sam", 21);
@@ -20,7 +20,7 @@ INSERT INTO users VALUES (18, "Sam", 35);
 INSERT INTO users VALUES (19, "Dan", 34);
 INSERT INTO users VALUES (20,"Tracy", 23);
 
-# projects
+
 INSERT INTO projects VALUES (1,"Moon", "landing", 500, "12/21/1999", "1/15/1920");
 INSERT INTO projects VALUES (2, "Dog", "Peting", 200,000, "1/21/1999", "1/31/1920");
 INSERT INTO projects VALUES (3, "Carpet Ride", "Traveling", "50", "12/14/1999", "6/15/1920");
